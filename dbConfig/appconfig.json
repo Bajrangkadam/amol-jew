@@ -1,0 +1,9 @@
+{
+    "dbConfig": {
+        "host": "45.130.228.205",
+        "user": "u863881604_root",
+        "password": "Amoldb123#",
+        "database": "u863881604_amoldb",
+        "port": "3306"
+    }
+}
